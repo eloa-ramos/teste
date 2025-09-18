@@ -1,10 +1,42 @@
-# Capyjavas
+# Sistema de PDI
 
-# Objetivo do Projeto
+<p align="center">
+  <img width="200" alt="capyjavas_logo" src="" />
+</p>
 
-# MVP
+<div align="center">
+  <b>CAPYJAVAS</b>
+</div>
 
-## Backlog
+<p align="center">
+  | <a href ="#tecnologias">Tecnologias</a> |
+  <a href ="#problema"> Problema</a>  |
+  <a href ="#solucao"> Solução</a>  |   
+  <a href ="#backlog"> Backlog do Produto</a>  |
+  <a href ="#sprint"> Cronograma de Sprints</a>  |
+  <a href ="#manual">Manual de Instalação</a>  | 
+  <a href ="#equipe"> Equipe</a> |
+</p>
+
+## 💻 Tecnologias <a id="tecnologias"></a>
+
+<h4 align="center">
+
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+</h4>
+
+<br>
+
+## ⚠️ Problema <a id="problema"></a>
+A **Youtan** de São José dos Campos, possui dificuldade na gestão dos PDIs de seus colaboradores por parte de sua equipe de RH, que utiliza relatórios avulsos.
+
+## 📌 Solução <a id="solucao"></a>
+A solução proposta para a **Youtan** foi criarmos uma ferramenta que permita a gestão dessas informações, planos, metas e documentos além de calcular resultados e permitir exportação, com acesso para RH e gerentes.
+
+<br>
+
+## 📝 PRODUCT BACKLOG <a id="backlog"></a>
 
 |   Rank  |   Prioridade   |   User Story   |   Estimativa   |   Sprint   |
 |:------:|:-----:|:-----|:------:|:------:|
@@ -26,7 +58,18 @@
 |16|   Pequena   |Como **Gerente**, quero exportar PDIs em planilha para análise externa|   240min   |3|
 |17|   Pequena   |Como **RH**, quero gerar relatórios de metas e resultados para compartilhar com a gestão|   240min   |3|
 
-## 👨‍💻Equipe
+## 📅 Cronograma de Sprints
+
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs]() |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs]() |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs]() |
+
+## 💻 Manual de Instalação <a id="manual"></a>
+(ainda a ser feito) 
+
+## 👩‍💻Equipe <a id="equipe"></a>
 
 |       Nome       |     Função     |                                                                            GitHub                                                                             |                                                                                               Linkedin                                                                                               |
 | :--------------: | :------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
