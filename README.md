@@ -1,7 +1,7 @@
 # Sistema de PDI
 
 <p align="center">
-  <img width="200" alt="capyjavas_logo" src="" />
+  <img width="200" alt="capyjavas_logo" src="https://img.freepik.com/vetores-premium/capybara-com-icone-plano-de-laptop-ilustracao-vetorial-eps-10_186686-845.jpg" />
 </p>
 
 <div align="center">
@@ -20,11 +20,14 @@
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
-<h4 align="center">
-
- <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
 
 <br>
 
@@ -69,7 +72,7 @@ A solução proposta para a **Youtan** foi criarmos uma ferramenta que permita a
 ## 💻 Manual de Instalação <a id="manual"></a>
 (ainda a ser feito) 
 
-## 👩‍💻Equipe <a id="equipe"></a>
+## 🙆‍♀️Equipe <a id="equipe"></a>
 
 |       Nome       |     Função     |                                                                            GitHub                                                                             |                                                                                               Linkedin                                                                                               |
 | :--------------: | :------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
