@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/24.0.1" fx:controller="com.mycompany.meuappjavafx.EntrarController">
+    <stylesheets>
+        <URL value="@/styles/entrar.css" />
+    </stylesheets>
+   <children>
+      <Pane layoutX="208.0" layoutY="25.0" prefHeight="67.0" prefWidth="185.0">
+         <children>
+            <Label layoutX="12.0" layoutY="39.0" text="Primeira vez? Cadastre-se">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label alignment="TOP_CENTER" contentDisplay="CENTER" graphicTextGap="5.0" layoutX="52.0" text="Entrar">
+               <font>
+                  <Font name="Segoe UI Black" size="26.0" />
+               </font>
+            </Label>
+            <Line endX="122.0537109375" layoutX="48.0" layoutY="59.0" startX="51.0" strokeWidth="0.3" />
+         </children>
+      </Pane>
+      <Pane layoutX="138.0" layoutY="113.0" prefHeight="250.0" prefWidth="325.0">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ffffff00" height="250.0" smooth="false" stroke="#dadada" strokeLineCap="ROUND" strokeLineJoin="ROUND" strokeType="OUTSIDE" strokeWidth="1.5" width="325.0" />
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#ffffff00" height="41.0" layoutX="25.0" layoutY="43.0" smooth="false" stroke="#dadada" strokeLineCap="ROUND" strokeLineJoin="ROUND" strokeType="OUTSIDE" strokeWidth="1.5" width="275.0" />
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#ffffff00" height="41.0" layoutX="25.0" layoutY="124.0" smooth="false" stroke="#dadada" strokeLineCap="ROUND" strokeLineJoin="ROUND" strokeType="OUTSIDE" strokeWidth="1.5" width="275.0" />
+            <Label layoutX="39.0" layoutY="54.0" text="Digite seu enderço de email" textFill="#979797">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <Label layoutX="39.0" layoutY="135.0" text="Digite sua senha" textFill="#979797">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <Label layoutX="24.0" layoutY="14.0" text="Email">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <Label layoutX="21.0" layoutY="94.0" text="Senha">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <Button layoutX="137.0" layoutY="182.0" mnemonicParsing="false" text="Entrar" />
+            <Label layoutX="22.0" layoutY="219.0" text="Esqueceu sua senha?">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+            <Line endX="165.900390625" layoutX="-33.0" layoutY="236.0" startX="55.0" strokeWidth="0.3" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
